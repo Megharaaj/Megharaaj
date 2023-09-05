@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-# Megharaaj_Portfolio
 <a href="#"><img width="1000%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" alt="centered image" align="middle" ></a>
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Megharaaj </h1>
 <h3 align="center">I'm Aspiring Data Engineer from Banglore, India. Inspirired with Data Science Problems! </h3>
